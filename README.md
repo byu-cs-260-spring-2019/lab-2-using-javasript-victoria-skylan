@@ -1,4 +1,4 @@
-# Lab2: Using JavaScript
+# Lab 2: Using JavaScript
 
 In this assignment you will use JavaScript to build a weather app.  To
 get the weather, we'll use the [OpenWeatherMap
