@@ -1,0 +1,71 @@
+#title {
+	text-align: center;
+	background: #233450;
+	color: white;
+	padding: 20px;
+	font-family: Lora, "Lucida Grande";
+}
+#cloudheader {
+	align-content: center;
+}
+.inputBox {
+	padding-left: 4em;
+	padding-top: 2em;
+	background:#E4E4E4;
+	border: #000000 solid 2px;
+	height: 5em;
+	align-content: center;
+}
+#weatherResults {
+	background: #D3E3E3;
+	margin-right: 5em;
+	margin-left: 5em;
+	font-family: Lora, "Lucida Grande";
+}
+#weatherResults h3 {
+	text-decoration: underline;
+}
+.weatherTitle {
+	text-align: center;
+	font-family: Lora, "Lucida Grande";
+	border: black 1px solid;
+}
+.weatherIcon {
+	padding-left: 80px;
+}
+.gitHub {
+	display: inline-block;
+}
+#day {
+	background: #E5F1F1;
+	border: 3px solid #7A7A7A;
+	opacity: .8;
+	font-size: 30px;
+}
+#time {
+	background: #FFE7BE;
+	border: 2px solid #7A7A7A;
+	border-right: 3px solid #7A7A7A;
+}
+#footer {
+	bottom: 1px;
+	text-align: center;
+	color: #000000;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+.aBlock {
+	border-top: solid 5px #7A7A7A;
+}
